@@ -5,5 +5,8 @@
 .top-bar {
     .menu-text {
         color: $nav-text-color;
+    };
+    .active-link {
+        font-weight: bold;
     }
 }
